@@ -1,0 +1,6 @@
+{
+  "name": "Trendy Collection — Premium 3D Fashion E-Commerce",
+  "description": "Wear Your Future with Trendy Collection. Discover next-gen everyday fashion, bold essentials, streetwear, 3D animated styling, and curated looks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
